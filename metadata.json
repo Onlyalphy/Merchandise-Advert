@@ -1,0 +1,5 @@
+{
+  "name": "WildSync Adventures Merch Gen",
+  "description": "Generate high-quality merchandise mockups for WildSync Adventures using the Gemini 3 Pro Image model. Supports 1K, 2K, and 4K resolutions.",
+  "requestFramePermissions": []
+}
